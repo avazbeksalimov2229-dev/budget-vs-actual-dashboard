@@ -1,0 +1,196 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "cos",
+  "position": {
+    "x": 24,
+    "y": 508,
+    "z": 12000,
+    "width": 772,
+    "height": 200,
+    "tabOrder": 12000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_change_orders"
+                    }
+                  },
+                  "Property": "co_id"
+                }
+              },
+              "queryRef": "fact_change_orders.co_id",
+              "nativeQueryRef": "co_id",
+              "displayName": "CO"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_change_orders"
+                    }
+                  },
+                  "Property": "description"
+                }
+              },
+              "queryRef": "fact_change_orders.description",
+              "nativeQueryRef": "description",
+              "displayName": "Description"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_change_orders"
+                    }
+                  },
+                  "Property": "status"
+                }
+              },
+              "queryRef": "fact_change_orders.status",
+              "nativeQueryRef": "status",
+              "displayName": "Status"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_change_orders"
+                    }
+                  },
+                  "Property": "submitted_date"
+                }
+              },
+              "queryRef": "fact_change_orders.submitted_date",
+              "nativeQueryRef": "submitted_date",
+              "displayName": "Submitted"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_change_orders"
+                    }
+                  },
+                  "Property": "cost_amount"
+                }
+              },
+              "queryRef": "fact_change_orders.cost_amount",
+              "nativeQueryRef": "cost_amount",
+              "displayName": "Cost"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "fact_change_orders"
+                    }
+                  },
+                  "Property": "price_amount"
+                }
+              },
+              "queryRef": "fact_change_orders.price_amount",
+              "nativeQueryRef": "price_amount",
+              "displayName": "Price"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "fact_change_orders"
+                  }
+                },
+                "Property": "co_id"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": false
+      }
+    },
+    "objects": {
+      "grid": [
+        {
+          "properties": {
+            "rowPadding": {
+              "expr": {
+                "Literal": {
+                  "Value": "0.0D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Owner change orders'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11.0D"
+                }
+              }
+            },
+            "bold": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "subTitle": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

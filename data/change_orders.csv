@@ -1,0 +1,23 @@
+co_id,project_id,cost_code,description,submitted_date,approved_date,status,cost_amount,price_amount
+CO-P01-01,P01,07-500,Added work per RFI response,2025-05-14,2025-06-20,Approved,17200.00,19400.00
+CO-P02-01,P02,08-100,Owner-requested scope change,2025-05-30,2025-07-05,Approved,27900.00,31300.00
+CO-P02-02,P02,05-100,Steel price escalation claim,2025-07-29,,Rejected,260000.00,260000.00
+CO-P02-03,P02,02-200,Added work per RFI response,2025-12-24,2026-01-02,Approved,27400.00,31000.00
+CO-P03-01,P03,07-500,Added scope per site instruction,2025-07-10,2025-09-01,Approved,10500.00,12000.00
+CO-P03-02,P03,09-900,Upgraded materials (owner selection),2026-01-30,2026-02-23,Approved,40100.00,45600.00
+CO-P04-01,P04,05-100,Revised drawings (design development),2025-12-25,2026-01-28,Approved,34300.00,37800.00
+CO-P05-01,P05,02-200,Unforeseen rock excavation (differing site condition),2024-12-15,2025-04-03,Approved,380000.00,418000.00
+CO-P05-02,P05,33-000,Added work per RFI response,2025-03-20,2025-05-10,Approved,86000.00,95000.00
+CO-P05-03,P05,02-200,Added scope per site instruction,2025-06-23,2025-07-23,Approved,54400.00,61600.00
+CO-P05-04,P05,33-000,Owner allowance adjustment,2025-12-17,,Rejected,100300.00,112100.00
+CO-P06-01,P06,08-100,Added scope per site instruction,2025-07-07,,Rejected,16400.00,18300.00
+CO-P06-02,P06,26-000,Added scope per site instruction,2025-11-15,2026-02-06,Approved,64500.00,71900.00
+CO-P06-03,P06,09-900,Revised drawings (design development),2026-02-17,2026-03-05,Approved,37000.00,42100.00
+CO-P07-01,P07,26-000,Revised drawings (design development),2025-09-10,2025-11-17,Approved,195600.00,218900.00
+CO-P07-02,P07,23-000,Added cooling capacity for hall B (client request),2026-03-28,,Pending,420000.00,470400.00
+CO-P08-01,P08,05-100,Revised drawings (design development),2025-07-11,2025-09-09,Approved,48500.00,55400.00
+CO-P08-02,P08,26-000,Added work per RFI response,2025-07-17,2025-10-10,Approved,14900.00,17000.00
+CO-P08-03,P08,02-200,Added work per RFI response,2026-01-15,2026-04-28,Approved,31100.00,34900.00
+CO-P09-01,P09,23-000,Revised drawings (design development),2026-01-06,,Rejected,41600.00,45800.00
+CO-P09-02,P09,08-100,Owner-requested scope change,2026-02-15,,Rejected,17400.00,19300.00
+CO-P10-01,P10,05-100,Upgraded materials (owner selection),2026-04-24,,Pending,16300.00,18300.00

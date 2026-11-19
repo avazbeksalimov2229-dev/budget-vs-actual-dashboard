@@ -1,0 +1,103 @@
+po_id,po_line,project_id,cost_code,vendor,commitment_date,description,amount
+PO-P01-01500,1,P01,01-500,Midstate Equipment Rentals,2024-07-20,Equipment Rental: original subcontract / PO,216600.00
+PO-P01-02200,1,P01,02-200,Terra Earthworks,2024-07-09,Sitework & Earthwork: original subcontract / PO,448900.00
+PO-P01-03300,1,P01,03-300,BlueLine Concrete,2024-07-21,Concrete: original subcontract / PO,884100.00
+PO-P01-05100,1,P01,05-100,Apex Steel Erectors,2024-08-22,Structural Steel: original subcontract / PO,649300.00
+PO-P01-07500,1,P01,07-500,Northern Roofing Co.,2024-12-25,Roofing & Waterproofing: original subcontract / PO,295100.00
+PO-P01-07500,2,P01,07-500,Northern Roofing Co.,2025-06-20,Change: Added work per RFI response (CO-P01-01),16300.00
+PO-P01-08100,1,P01,08-100,Keystone Doors & Glass,2025-01-06,"Doors, Frames & Glazing: original subcontract / PO",373900.00
+PO-P01-09900,1,P01,09-900,Precision Interiors,2025-02-16,Interior Finishes: original subcontract / PO,1023000.00
+PO-P01-22000,1,P01,22-000,Clearwater Plumbing,2024-09-04,Plumbing: original subcontract / PO,593100.00
+PO-P01-23000,1,P01,23-000,Summit Mechanical,2024-10-09,HVAC: original subcontract / PO,827100.00
+PO-P01-26000,1,P01,26-000,Brightway Electric,2024-09-25,Electrical: original subcontract / PO,802500.00
+PO-P02-01500,1,P02,01-500,Midstate Equipment Rentals,2024-10-10,Equipment Rental: original subcontract / PO,576300.00
+PO-P02-02200,1,P02,02-200,Terra Earthworks,2024-10-20,Sitework & Earthwork: original subcontract / PO,1022500.00
+PO-P02-02200,2,P02,02-200,Terra Earthworks,2026-01-02,Change: Added work per RFI response (CO-P02-03),25600.00
+PO-P02-03300,1,P02,03-300,BlueLine Concrete,2024-10-17,Concrete: original subcontract / PO,1896600.00
+PO-P02-05100,1,P02,05-100,Apex Steel Erectors,2025-01-10,Structural Steel: original subcontract / PO,2875000.00
+PO-P02-07500,1,P02,07-500,Northern Roofing Co.,2025-07-06,Roofing & Waterproofing: original subcontract / PO,720400.00
+PO-P02-08100,1,P02,08-100,Keystone Doors & Glass,2025-09-07,"Doors, Frames & Glazing: original subcontract / PO",418800.00
+PO-P02-08100,2,P02,08-100,Keystone Doors & Glass,2025-07-05,Change: Owner-requested scope change (CO-P02-01),26300.00
+PO-P02-09900,1,P02,09-900,Precision Interiors,2025-11-25,Interior Finishes: original subcontract / PO,588400.00
+PO-P02-22000,1,P02,22-000,Clearwater Plumbing,2025-03-23,Plumbing: original subcontract / PO,707400.00
+PO-P02-23000,1,P02,23-000,Summit Mechanical,2025-04-25,HVAC: original subcontract / PO,2257200.00
+PO-P02-26000,1,P02,26-000,Brightway Electric,2025-03-19,Electrical: original subcontract / PO,2668200.00
+PO-P03-01500,1,P03,01-500,Midstate Equipment Rentals,2025-01-19,Equipment Rental: original subcontract / PO,163500.00
+PO-P03-02200,1,P03,02-200,Terra Earthworks,2025-01-06,Sitework & Earthwork: original subcontract / PO,315100.00
+PO-P03-03300,1,P03,03-300,BlueLine Concrete,2025-01-05,Concrete: original subcontract / PO,657400.00
+PO-P03-05100,1,P03,05-100,Apex Steel Erectors,2025-03-06,Structural Steel: original subcontract / PO,489500.00
+PO-P03-07500,1,P03,07-500,Northern Roofing Co.,2025-07-19,Roofing & Waterproofing: original subcontract / PO,215200.00
+PO-P03-07500,2,P03,07-500,Northern Roofing Co.,2025-09-01,Change: Added scope per site instruction (CO-P03-01),9700.00
+PO-P03-08100,1,P03,08-100,Keystone Doors & Glass,2025-08-19,"Doors, Frames & Glazing: original subcontract / PO",262800.00
+PO-P03-09900,1,P03,09-900,Precision Interiors,2025-09-18,Interior Finishes: original subcontract / PO,765700.00
+PO-P03-09900,2,P03,09-900,Precision Interiors,2026-02-23,Change: Upgraded materials (owner selection) (CO-P03-02),38000.00
+PO-P03-22000,1,P03,22-000,Clearwater Plumbing,2025-04-06,Plumbing: original subcontract / PO,430400.00
+PO-P03-23000,1,P03,23-000,Summit Mechanical,2025-04-03,HVAC: original subcontract / PO,601000.00
+PO-P03-26000,1,P03,26-000,Brightway Electric,2025-04-04,Electrical: original subcontract / PO,593900.00
+PO-P04-01500,1,P04,01-500,Midstate Equipment Rentals,2025-03-04,Equipment Rental: original subcontract / PO,400700.00
+PO-P04-02200,1,P04,02-200,Terra Earthworks,2025-03-06,Sitework & Earthwork: original subcontract / PO,789400.00
+PO-P04-03300,1,P04,03-300,BlueLine Concrete,2025-03-23,Concrete: original subcontract / PO,1569900.00
+PO-P04-05100,1,P04,05-100,Apex Steel Erectors,2025-06-16,Structural Steel: original subcontract / PO,1152800.00
+PO-P04-05100,2,P04,05-100,Apex Steel Erectors,2026-01-28,Change: Revised drawings (design development) (CO-P04-01),33400.00
+PO-P04-07500,1,P04,07-500,Northern Roofing Co.,2025-12-03,Roofing & Waterproofing: original subcontract / PO,533200.00
+PO-P04-08100,1,P04,08-100,Keystone Doors & Glass,2026-02-04,"Doors, Frames & Glazing: original subcontract / PO",661300.00
+PO-P04-09900,1,P04,09-900,Precision Interiors,2026-04-16,Interior Finishes: original subcontract / PO,1895900.00
+PO-P04-22000,1,P04,22-000,Clearwater Plumbing,2025-07-12,Plumbing: original subcontract / PO,1071400.00
+PO-P04-23000,1,P04,23-000,Summit Mechanical,2025-08-09,HVAC: original subcontract / PO,1444200.00
+PO-P04-26000,1,P04,26-000,Brightway Electric,2025-07-22,Electrical: original subcontract / PO,1466300.00
+PO-P05-01500,1,P05,01-500,Midstate Equipment Rentals,2024-09-06,Equipment Rental: original subcontract / PO,758500.00
+PO-P05-02200,1,P05,02-200,Terra Earthworks,2024-09-18,Sitework & Earthwork: original subcontract / PO,1722000.00
+PO-P05-02200,2,P05,02-200,Terra Earthworks,2024-11-10,Change: rock excavation and disposal,701600.00
+PO-P05-02200,3,P05,02-200,Terra Earthworks,2025-07-23,Change: Added scope per site instruction (CO-P05-03),52100.00
+PO-P05-03300,1,P05,03-300,BlueLine Concrete,2024-09-18,Concrete: original subcontract / PO,2064000.00
+PO-P05-05100,1,P05,05-100,Apex Steel Erectors,2024-12-11,Structural Steel: original subcontract / PO,555400.00
+PO-P05-26000,1,P05,26-000,Brightway Electric,2025-01-13,Electrical: original subcontract / PO,1136900.00
+PO-P05-33000,1,P05,33-000,Riverbend Piping,2024-12-03,Process Piping & Utilities: original subcontract / PO,2229200.00
+PO-P05-33000,2,P05,33-000,Riverbend Piping,2025-05-10,Change: Added work per RFI response (CO-P05-02),82900.00
+PO-P06-01500,1,P06,01-500,Midstate Equipment Rentals,2025-06-25,Equipment Rental: original subcontract / PO,249500.00
+PO-P06-02200,1,P06,02-200,Terra Earthworks,2025-06-16,Sitework & Earthwork: original subcontract / PO,492800.00
+PO-P06-03300,1,P06,03-300,BlueLine Concrete,2025-06-18,Concrete: original subcontract / PO,946900.00
+PO-P06-05100,1,P06,05-100,Apex Steel Erectors,2025-08-12,Structural Steel: original subcontract / PO,344400.00
+PO-P06-07500,1,P06,07-500,Northern Roofing Co.,2026-01-09,Roofing & Waterproofing: original subcontract / PO,416500.00
+PO-P06-08100,1,P06,08-100,Keystone Doors & Glass,2026-02-09,"Doors, Frames & Glazing: original subcontract / PO",515100.00
+PO-P06-09900,1,P06,09-900,Precision Interiors,2026-03-04,Interior Finishes: original subcontract / PO,1180600.00
+PO-P06-09900,2,P06,09-900,Precision Interiors,2026-03-05,Change: Revised drawings (design development) (CO-P06-03),35700.00
+PO-P06-22000,1,P06,22-000,Clearwater Plumbing,2025-09-17,Plumbing: original subcontract / PO,757400.00
+PO-P06-23000,1,P06,23-000,Summit Mechanical,2025-10-24,HVAC: original subcontract / PO,780100.00
+PO-P06-26000,1,P06,26-000,Brightway Electric,2025-09-10,Electrical: original subcontract / PO,822600.00
+PO-P06-26000,2,P06,26-000,Brightway Electric,2026-02-06,Change: Added scope per site instruction (CO-P06-02),62500.00
+PO-P07-01500,1,P07,01-500,Midstate Equipment Rentals,2025-08-14,Equipment Rental: original subcontract / PO,311700.00
+PO-P07-02200,1,P07,02-200,Terra Earthworks,2025-08-16,Sitework & Earthwork: original subcontract / PO,213000.00
+PO-P07-03300,1,P07,03-300,BlueLine Concrete,2025-08-18,Concrete: original subcontract / PO,639000.00
+PO-P07-05100,1,P07,05-100,Apex Steel Erectors,2025-09-20,Structural Steel: original subcontract / PO,649100.00
+PO-P07-08100,1,P07,08-100,Keystone Doors & Glass,2026-01-06,"Doors, Frames & Glazing: original subcontract / PO",215800.00
+PO-P07-09900,1,P07,09-900,Precision Interiors,2026-02-03,Interior Finishes: original subcontract / PO,520500.00
+PO-P07-22000,1,P07,22-000,Clearwater Plumbing,2025-10-09,Plumbing: original subcontract / PO,438800.00
+PO-P07-23000,1,P07,23-000,Summit Mechanical,2025-10-05,HVAC: original subcontract / PO,2924500.00
+PO-P07-23000,2,P07,23-000,Summit Mechanical,2026-01-07,Change: added scope and overtime,525300.00
+PO-P07-26000,1,P07,26-000,Brightway Electric,2025-10-25,Electrical: original subcontract / PO,3613500.00
+PO-P07-26000,2,P07,26-000,Brightway Electric,2026-01-18,Change: added scope and overtime,562800.00
+PO-P07-26000,3,P07,26-000,Brightway Electric,2025-11-17,Change: Revised drawings (design development) (CO-P07-01),184700.00
+PO-P08-01500,1,P08,01-500,Midstate Equipment Rentals,2025-04-13,Equipment Rental: original subcontract / PO,956500.00
+PO-P08-02200,1,P08,02-200,Terra Earthworks,2025-04-23,Sitework & Earthwork: original subcontract / PO,504500.00
+PO-P08-02200,2,P08,02-200,Terra Earthworks,2026-04-28,Change: Added work per RFI response (CO-P08-03),29400.00
+PO-P08-03300,1,P08,03-300,BlueLine Concrete,2025-04-17,Concrete: original subcontract / PO,1638200.00
+PO-P08-05100,1,P08,05-100,Apex Steel Erectors,2025-05-15,Structural Steel: original subcontract / PO,1411500.00
+PO-P08-05100,2,P08,05-100,Apex Steel Erectors,2025-09-09,Change: Revised drawings (design development) (CO-P08-01),46800.00
+PO-P08-26000,1,P08,26-000,Brightway Electric,2025-06-05,Electrical: original subcontract / PO,197100.00
+PO-P08-26000,2,P08,26-000,Brightway Electric,2025-10-10,Change: Added work per RFI response (CO-P08-02),14200.00
+PO-P08-32100,1,P08,32-100,Granite Paving & Traffic,2025-11-17,Paving & Traffic Control: original subcontract / PO,946600.00
+PO-P09-01500,1,P09,01-500,Midstate Equipment Rentals,2025-11-07,Equipment Rental: original subcontract / PO,149500.00
+PO-P09-02200,1,P09,02-200,Terra Earthworks,2025-11-04,Sitework & Earthwork: original subcontract / PO,288100.00
+PO-P09-03300,1,P09,03-300,BlueLine Concrete,2025-11-12,Concrete: original subcontract / PO,586500.00
+PO-P09-05100,1,P09,05-100,Apex Steel Erectors,2025-12-12,Structural Steel: original subcontract / PO,434800.00
+PO-P09-07500,1,P09,07-500,Northern Roofing Co.,2026-04-25,Roofing & Waterproofing: original subcontract / PO,199600.00
+PO-P09-08100,1,P09,08-100,Keystone Doors & Glass,2026-05-10,"Doors, Frames & Glazing: original subcontract / PO",252500.00
+PO-P09-09900,1,P09,09-900,Precision Interiors,2026-06-03,Interior Finishes: original subcontract / PO,705900.00
+PO-P09-22000,1,P09,22-000,Clearwater Plumbing,2026-01-05,Plumbing: original subcontract / PO,384700.00
+PO-P09-23000,1,P09,23-000,Summit Mechanical,2026-02-19,HVAC: original subcontract / PO,547500.00
+PO-P09-26000,1,P09,26-000,Brightway Electric,2026-01-13,Electrical: original subcontract / PO,554600.00
+PO-P10-01500,1,P10,01-500,Midstate Equipment Rentals,2026-03-09,Equipment Rental: original subcontract / PO,348600.00
+PO-P10-02200,1,P10,02-200,Terra Earthworks,2026-03-21,Sitework & Earthwork: original subcontract / PO,684200.00
+PO-P10-03300,1,P10,03-300,BlueLine Concrete,2026-03-22,Concrete: original subcontract / PO,1228900.00
+PO-P10-05100,1,P10,05-100,Apex Steel Erectors,2026-06-24,Structural Steel: original subcontract / PO,461100.00

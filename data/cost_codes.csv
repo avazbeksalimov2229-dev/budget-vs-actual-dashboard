@@ -1,0 +1,16 @@
+cost_code,cost_code_name,cost_category,sort_order
+01-100,General Conditions,General Conditions,1
+01-500,Equipment Rental,Equipment,2
+02-200,Sitework & Earthwork,Subcontract,3
+03-300,Concrete,Subcontract,4
+05-100,Structural Steel,Subcontract,5
+06-100,Rough Carpentry (self-perform),Labor,6
+07-500,Roofing & Waterproofing,Subcontract,7
+08-100,"Doors, Frames & Glazing",Materials,8
+09-900,Interior Finishes,Subcontract,9
+22-000,Plumbing,Subcontract,10
+23-000,HVAC,Subcontract,11
+26-000,Electrical,Subcontract,12
+32-100,Paving & Traffic Control,Subcontract,13
+33-000,Process Piping & Utilities,Subcontract,14
+99-999,Unallocated (needs recoding),Unallocated,99

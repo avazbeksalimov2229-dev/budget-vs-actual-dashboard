@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/pagesMetadata/1.1.0/schema.json",
+  "pageOrder": [
+    "p1_portfolio",
+    "p2_project",
+    "p3_variance",
+    "p4_wip",
+    "p5_forecast",
+    "p6_board"
+  ],
+  "activePageName": "p1_portfolio"
+}
